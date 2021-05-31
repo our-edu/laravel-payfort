@@ -31,7 +31,7 @@
   },
   "autoload": {
     "psr-4": {
-      "our-edu\\LaravelPayfort\\": "src/"
+      "LaravelPayfort\\": "src/"
     }
   },
 
